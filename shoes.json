@@ -1,0 +1,29 @@
+{
+   "shoes":[
+      {
+         "id":"1",
+         "size":"6",
+         "color":"blue"
+      },
+      {
+         "id":"2",
+         "size":"5",
+         "color":"black"
+      },
+      {
+         "id":"3",
+         "size":"2",
+         "color":"white"
+      },
+      {
+         "id":"4",
+         "size":"4",
+         "color":"red"
+      },
+      {
+         "id":"5",
+         "size":"7",
+         "color":"yellow"
+      }
+   ]
+}  
